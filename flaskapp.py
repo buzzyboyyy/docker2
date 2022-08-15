@@ -38,7 +38,7 @@ def youtubeprint():
     return("Most Watched Video Today: " + info)
     
 @app.route("/21")
-def tiddytest():
+def tidwel():
     return("21")
 
 if __name__ == '__main__':
