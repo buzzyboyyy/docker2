@@ -37,9 +37,9 @@ def youtubeprint():
 
     return("Most Watched Video Today: " + info)
     
-@app.route("/tiddy")
+@app.route("/21")
 def tiddytest():
-    return("tiddy")
+    return("21")
 
 if __name__ == '__main__':
     app.run(host="0.0.0.0")
